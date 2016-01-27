@@ -1,5 +1,33 @@
-### Welcome to your project!
+# Title
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+# Abstract
+
+# Introduction
+
+# Methods
+
+# Results
+
+## Study description
+
+We included 736 patients from 8 hospitals in 4 European countries. Patients were eligible if they were treated with an infusion of noradrenaline for at least 24 hours, and considered likely to have sepsis.
+
+## Patients
+
+The mean age for patients studied was 70 years (SD 10) ...
+
+## Process measures
+
+- sedation
+- fluid management
+	- first 24 hours
+	- cumulative
+- vasopressor use
+	- noradrenaline dose
+    - VADI score
+ 
+
+
+# Discussion
+
+# References
