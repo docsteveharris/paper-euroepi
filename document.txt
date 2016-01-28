@@ -4,7 +4,19 @@
 
 # Introduction
 
+## Last paragraph segue
+
+We set out to measure the variation in patient and practice factors for patients with septic shock cared for within critical care units in Europe.
+
 # Methods
+
+Inclusion
+
+- consecutive admissions with requiring noradrenaline for presumed sepsis 
+
+- mention that we extracted data to mirror that reported in Morelli
+	- NAd for MAP > 65 
+	- for 24 hours
 
 # Results
 
@@ -26,8 +38,30 @@ The mean age for patients studied was 70 years (SD 10) ...
 	- noradrenaline dose
     - VADI score
  
+## Variation at baseline
+
+i.e. before delivery of critical care with a focus on
+
+- organ dysfunction
+- type of sepsis
+- pre-ITU LOS
+
+## Planned subgroups
+
+- those meeting new sepsis definitions criteria
+- those meeting Morelli criteria
+- those admitted 'fresh' to ICU (i.e. pre-ICU LOS < 24h)
 
 
 # Discussion
 
+We were/weren't able to identify a cohort of patients where the variation was/wasn't affected by site/practice parameters.
+
 # References
+
+# Tables
+
+## Table 1
+
+Simple summary of the population characteristics
+
