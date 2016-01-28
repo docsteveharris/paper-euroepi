@@ -6,7 +6,7 @@
 
 ## Last paragraph segue
 
-We set out to measure the variation in patient and practice factors for patients with septic shock cared for within critical care units in Europe.
+We set out to measure the variation in patient and practice factors for patients with septic shock cared for within critical care units in Europe. In particular, we sought to determine whether important treatment variables during the first 24 hours could explain differences in noradrenaline use.
 
 # Methods
 
