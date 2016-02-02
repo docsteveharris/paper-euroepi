@@ -1,12 +1,34 @@
 # Title
+# My title 
 
 # Abstract
+Start every paper with a cheesy quote
+
+> This is a quote
+
+
+
 
 # Introduction
 
+Although Intensive Care Unit’s (ICU’s) mortality is dropping throughout the last decades, severe sepsis and septic shock’s outcomes are still poor.
+According to Surviving Sepsis Campaign (SSC) guidelines, aggressive volume resuscitation and early broad spectrum antibiotic therapy are the mainstays of initial management for sepsis and septic shock, and vasoactive drug’s infusion is added when fluids themselves do not restore adequate Blood Pressure (BP) and tissue perfusion.
+Hemodynamic optimization in septic shock should be reached in the first 6 hrs of treatment, but a compromise between cardiovascular stability and adverse effects of catecholamine is often required.
+
+At present, Norepinephrine is the first line agent suggested by SSC guidelines, although BP’s targets and ceilings of infusion are still debatable. 
+Norepinephrine is a potent alpha-adrenergic agonist with minor beta-adrenergic effects. Its vasoconstrictive effects can potentially affect renal and splanchnic circulation, as well as peripheral blood flow, particularly in patients who are not adequately intravascularly filled. Digital ischaemias, tachyarrhithmias, metabolic derangements, insulin resistance with hyperglycaemia are just some of the consequences of catecholamine, but additional side effects can affect the patients’ recovery:  immunosuppression and stimulation of bacterial growth expose patients to further infections, muscle catabolism, impaired use of glucose and waste of fatty acids reserve contribute to weakness and respiratory weaning failure, direct myocitic toxicity worsens sepsis-related myocardial depression. Drug’s tolerance is also in question, and increasing infusional rates are often required to achieve our “debatable targets”.
+Moreover, septic shock itself is associated with endogenous sympathetic outflow, autonomic dysfunction and high plasma adrenergic levels. Therefore catecholaminergic stress seems to have e a specific role in morbidity and mortality of septic shock patients.
+
+Unexplained tachycardia (not responsive to hemodynamic optimization and not related to other common causes like anaemia, agitation or pain) can be considered as an expression of adrenergic overstimulation and beta-blockade has been suggested to be effective to cardiac and non-cardiac adverse effects of vasoactive drugs .
+Recently, Morelli et al showed a good correlation between HR>95 bpm and adverse cardiac events in septic shock patients, and patients treated with short-acting beta-blockade showed improved outcome compared to the non-treated group. The study cannot conclude whether HR reduction itself explains the results or non-cardiac mechanisms contribute to it; further investigations are still required but certainly catecholaminergic stress control is a matter of interest.
+This study is a multicentre retrospective analysis performed to assess the relationship between norepinephrine (NE) infusion, HR and mortality in septic shock patients.
+The main hypothesis of this trial is that early and persistent tachycardia as response to moderate-to-high NE infusions is a marker of catecholaminergic stress and it’s associated to worse outcome in septic shock patients.
+We also hypothesize that further variables in septic shock’s management are interesting to explain differences in outcomes among ITUs and that target in BPs, sedation and organ supports need to be re-discussed as independent factors that modify NE infusional rates and therefore catecholaminergic stress amounts.
+
+
 ## Last paragraph segue
 
-We set out to measure the variation in patient and practice factors for patients with septic shock cared for within critical care units in Europe. In particular, we sought to determine whether important treatment variables during the first 24 hours could explain differences in noradrenaline use.
+We set out to **measure** the variation in _patient_ and practice factors for patients with septic shock cared for within critical care units in Europe. In particular, we sought to determine whether important treatment variables during the first 24 hours could explain differences in noradrenaline use.
 
 # Methods
 
@@ -23,6 +45,8 @@ Inclusion
 ## Study description
 
 We included 736 patients from 8 hospitals in 4 European countries. Patients were eligible if they were treated with an infusion of noradrenaline for at least 24 hours, and considered likely to have sepsis.
+
+
 
 ## Patients
 
