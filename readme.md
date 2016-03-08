@@ -1,18 +1,9 @@
-# Collaborative editing of manuscript
-
 Notes for the 'European septic shock' cohort manuscript
 
-# inbox.todo
+## inbox.todo
 
 Running list of tasks, but transfer these to the [issue tracker](https://github.com/docsteveharris/paper-euroepi/issues) (and then remove from here)
 
-- add in Morelli inclusion criteria
-    + septic shock plus heart rate > 95 and 'high dose' norad to maintain MAP > 65 for 24 hours
-- CONSORT flow diagram as per Morelli
-    + drop if off NAd by 24 hours (n=51)
-    + present a similar comparison
-        * inclusion were that NAd still required at 24 hrs
-        * exclus
 - descriptive stuff to report
     + sofa.24
     + rx.roids
@@ -22,7 +13,27 @@ Running list of tasks, but transfer these to the [issue tracker](https://github.
     + first 24 hour fluid resus
     + pathology 
 
+## now.todo
+
+- add in Morelli inclusion criteria
+    + septic shock plus heart rate > 95 and 'high dose' norad to maintain MAP > 65 for 24 hours
+        * not done this: kept all regardless of heart rate
+- CONSORT flow diagram as per Morelli
+    + drop if off NAd by 24 hours (n=51) 
+        + dropping where NAd <0.1 - but lose 40% sample ?revise
+    + present a similar comparison
+        * inclusion were that NAd still required at 24 hrs
+        * exclus
+
 # Notes
+
+## Log
+
+### 2016-03-08
+
+- done the strobe diagram
+- tidied table 1
+- started results text
 
 ## Robi and Sara's original precis
 
