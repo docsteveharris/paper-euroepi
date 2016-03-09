@@ -8,48 +8,70 @@
 
 We set out to measure the variation in patient and practice factors for patients with septic shock cared for within critical care units in Europe. In particular, we sought to determine whether important treatment variables during the first 24 hours could explain differences in noradrenaline use.
 
-# Methods
+Methods
+=======
 
-Inclusion
+Patients
+--------
 
-- consecutive admissions with requiring noradrenaline for presumed sepsis 
+We recruited one hundred consecutive admissions with septic shock from
+eight critical care units across Europe. Patients were eligible if they
+were locally diagnosed and treated for infection, required a vasopressor
+infusion after 24 hours of stabilisation in the critical care unit, and
+had not received beta-blocker therapy during the same time period.
 
-- mention that we extracted data to mirror that reported in Morelli
-	- NAd for MAP > 65 
-	- for 24 hours
+Definitions
+-----------
 
-# Results
+-   need to describe vasopressor and sedation scores
 
-## Study description
+Statistical analaysis
+---------------------
 
-We included 736 patients from 8 hospitals in 4 European countries. Patients were eligible if they were treated with an infusion of noradrenaline for at least 24 hours, and considered likely to have sepsis.
+Results
+=======
 
-## Patients
+We screened 730 consecutive admissions with septic shock from 8
+hospitals in 4 European countries. We excluded 3 patients (0.4%) who
+were discharged within 24 hours (one survivor, one non-surivor); 97
+patients (13.3%) who received beta-blocker therapy during the first 24
+hours; and, 162 patients (22.2%) where noradrenaline infusions had been
+weaned by 24 hours. The final cohort included 487 patients with each
+hospital contributing a median of 67 patients (IQR 56 to 73).
 
-The mean age for patients studied was 70 years (SD 10) ...
+Patient characteristics
+-----------------------
 
-## Process measures
+<!-- see Table 1 -->
+Vasopressor support for septic shock commenced on the first ICU day for
+311 (75%) patients, and pneumonia was the commonest cause of infection
+(223 patients, 46%). The median SOFA score at 24 hours was 10 (IQR 8 to
+12). The majority (424 patients, 87%) were mechanically ventilated, and
+140 (29%) had already started renal replacement therapy(RRT) at 24
+hours. The overall ICU mortality was 41% (198 deaths), and the hospital
+mortality was 48% (233 deaths).
 
-- sedation
-- fluid management
-	- first 24 hours
-	- cumulative
-- vasopressor use
-	- noradrenaline dose
-    - VADI score
- 
-## Variation at baseline
+Morelli criteria to compare in table
 
-i.e. before delivery of critical care with a focus on
+-   age &lt; 18
+-   beta-blockers prior to randomisation
+-   cardiac index &lt; 2.2 with high LAP
+-   significant valvular heart disease
 
-- organ dysfunction
-- type of sepsis
-- pre-ITU LOS
+Variation in practice between sites
+-----------------------------------
+
+-   sedation
+-   fluid management
+-   patient characteristics
+
+Variation in mortality between sites
+------------------------------------
+
+
 
 ## Planned subgroups
 
-- those meeting new sepsis definitions criteria
-- those meeting Morelli criteria
 - those admitted 'fresh' to ICU (i.e. pre-ICU LOS < 24h)
 
 

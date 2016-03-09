@@ -1,4 +1,5 @@
 Notes for the 'European septic shock' cohort manuscript
+Currently just doing a copy/paste job into the document.txt file from the results.md in the src git submodule
 
 ## inbox.todo
 
